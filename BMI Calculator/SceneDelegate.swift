@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  BMI Calculator
 //
-//  Created by Angela Yu on 21/08/2019.
-//  Copyright © 2019 Angela Yu. All rights reserved.
+//  Created by Sebastian Güiza 7-07-22
 //
 
 import UIKit

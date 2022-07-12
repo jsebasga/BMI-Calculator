@@ -18,4 +18,7 @@ Everybody who wants to use this application, ¡¡¡
 
 # Enjoy it !!!
 
-![Main Screen](BMIScreen.png)
+![Main Screen](BMI1.png)
+![Main Screen](BMI2.png)
+![Main Screen](BMI3.png)
+![Main Screen](BMI4.png)
