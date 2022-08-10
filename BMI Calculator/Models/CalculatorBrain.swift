@@ -12,7 +12,7 @@ struct CalculatorBrain {
     var bmi: BMI?
     
     mutating func calculateBMI(height: Float, weight: Float){
-        
+         
         let bmiValue = weight / (height * height)
         
         if bmiValue < 18.5 {
